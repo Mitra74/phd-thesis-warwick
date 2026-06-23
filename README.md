@@ -13,11 +13,15 @@ The thesis is structured around three core contributions, each corresponding to 
 (see table below; the Chapter 5 paper has been accepted to appear at ICC 2026 at the time of writing).
 
 ## Thesis Chapters & Code
-| Chapter | Title | Paper | Code |
-|---|---|---|---|
-| 3 | Spheroidal Molecular Communication via Diffusion: Signalling Between Homogeneous Cell Aggregates | [IEEE TMBMC, 2024](#) | [Repo](#) |
-| 4 | Molecular Communication in Multi-layered Spherical Channels with Drug Delivery Applications | [IEEE TMBMC, 2026](#) | [Repo](#) |
-| 5 | Molecular Communication in Multi-layered Parallel Channels with an Ocean Surface Case Study | [IEEE ICC, 2026](#) | [Repo](#) |
+| Chapter | Title | Journal Paper | Conference Paper | Code |
+|---|---|---|---|---|
+| 3 | Spheroidal Molecular Communication via Diffusion: Signalling Between Homogeneous Cell Aggregates | [IEEE TMBMC, 2024](#) | [IEEE ICC, 2023](#) | [Repo](#) |
+| 4 | Molecular Communication in Multi-layered Spherical Channels with Drug Delivery Applications | [IEEE TMBMC, 2026](#) | [IEEE ICC, 2025](#) | [Repo](#) |
+| 5 | Molecular Communication in Multi-layered Parallel Channels with an Ocean Surface Case Study | — *(journal version in preparation)* | [IEEE ICC, 2026](#) | [Repo](#) |
+
+*For Chapters 3 and 4, the conference paper is the preliminary version that was later substantially
+extended into the corresponding journal article. Chapter 5 is currently based on the conference
+paper alone; an extended journal version is in preparation.*
 
 ## How the chapters connect
 - **Chapter 3** establishes the foundational model for diffusion-based signalling between discrete
