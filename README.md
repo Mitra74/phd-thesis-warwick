@@ -16,7 +16,7 @@ The thesis is structured around three core contributions, each corresponding to 
 | Chapter | Title | Journal Paper | Conference Paper | Code |
 |---|---|---|---|---|
 | 3 | Spheroidal Molecular Communication via Diffusion: Signalling Between Homogeneous Cell Aggregates | [IEEE TMBMC, 2024](#) | [IEEE ICC, 2023](#) | [Repo](#) |
-| 4 | Molecular Communication in Multi-layered Spherical Channels with Drug Delivery Applications | [IEEE TMBMC, 2026](#) | [IEEE ICC, 2025](#) | [Repo](#) |
+| 4 | Molecular Communication in Multi-layered Spherical Channels with Drug Delivery Applications | [IEEE TMBMC, 2026]([#](https://ieeexplore.ieee.org/abstract/document/11363591)) | [IEEE ICC, 2025](#) | [Repo](#) |
 | 5 | Molecular Communication in Multi-layered Parallel Channels with an Ocean Surface Case Study | — *(journal version in preparation)* | [IEEE ICC, 2026](#) | [Repo](#) |
 
 *For Chapters 3 and 4, the conference paper is the preliminary version that was later substantially
