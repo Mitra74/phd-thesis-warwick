@@ -10,14 +10,14 @@ and large-scale environmental channels — unified by a common diffusion-based m
 that accounts for heterogeneity across material/biological interfaces.
 
 The thesis is structured around three core contributions, each corresponding to a publication
-(see table below; the Chapter 5 paper has been accepted to appear at ICC 2026 at the time of writing).
+(see table below).
 
 ## Thesis Chapters & Code
 | Chapter | Title | Journal Paper | Conference Paper | Code |
 |---|---|---|---|---|
 | 3 | Spheroidal Molecular Communication via Diffusion: Signalling Between Homogeneous Cell Aggregates | [IEEE TMBMC, 2024](https://ieeexplore.ieee.org/abstract/document/10438024) | [IEEE ICC, 2023](https://ieeexplore.ieee.org/abstract/document/10279128) | [Repo](https://github.com/Mitra74/Spheroidal-Molecular-Communication-via-Diffusion) |
 | 4 | Molecular Communication in Multi-layered Spherical Channels with Drug Delivery Applications | [IEEE TMBMC, 2026](https://ieeexplore.ieee.org/abstract/document/11363591) | [IEEE ICC, 2025](https://ieeexplore.ieee.org/abstract/document/11161953) | [Repo](https://github.com/Mitra74/Multilayered-Spherical-Channels) |
-| 5 | Molecular Communication in Multi-layered Parallel Channels with an Ocean Surface Case Study | — *(journal version in preparation)* | [IEEE ICC, 2026](#) | [Repo](https://github.com/Mitra74/Multilayered-Parallel-Channels) |
+| 5 | Molecular Communication in Multi-layered Parallel Channels with an Ocean Surface Case Study | — *(journal version in preparation)* | [IEEE ICC, 2026](#) | [Repo]([https://github.com/Mitra74/Multilayered-Parallel-Channels](https://ieeexplore.ieee.org/abstract/document/11587411)) |
 
 *For Chapters 3 and 4, the conference paper is the preliminary version that was later substantially
 extended into the corresponding journal article. Chapter 5 is currently based on the conference
